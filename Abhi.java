@@ -10,7 +10,7 @@ class Abhi
                 System.out.println("happy");
                 n++;//forward iteration
            }
-             System.out.println("Abhinaya");
+             System.out.println("Abhinaya and jabili");
          }
 }
       
